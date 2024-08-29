@@ -1,6 +1,4 @@
 # demo
-
-
-uyd;;;;g;ufx 
-<br>
-sb
+this is my first repo
+author-chandu
+ 
